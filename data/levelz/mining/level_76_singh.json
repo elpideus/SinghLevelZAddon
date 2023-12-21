@@ -20,6 +20,9 @@
     "blockus:red_futurneo_block",
     "blockus:black_futurneo_block",
     "blockus:rainbow_futurneo_block",
-    "bno:nether_uranium_ore"
+    "bno:nether_uranium_ore",
+    "litherite:infused_coal_ore",
+    "litherite:infused_deepslate_coal_ore",
+    "litherite:infused_coal_block"
   ]
 }

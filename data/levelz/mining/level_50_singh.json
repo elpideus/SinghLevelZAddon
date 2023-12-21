@@ -2,7 +2,9 @@
   "replace": true,
   "level": 50,
   "block": [
+    "immersiveores:enderium_ore",
     "betterend:ender_ore",
-    "betterend:infusion_pedestal"
+    "betterend:infusion_pedestal",
+    "immersiveores:raw_enderium_block"
   ]
 }

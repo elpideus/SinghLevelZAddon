@@ -20,6 +20,8 @@
     "minecraft:waxed_weathered_cut_copper_slab",
     "minecraft:waxed_oxidized_cut_copper_slab",
     "minecraft:quartz_pillar",
+    "handcrafted:quartz_pillar_trim",
+    "handcrafted:quartz_corner_trim",
     "minecraft:blackstone_slab",
     "minecraft:blackstone_stairs",
     "minecraft:damaged_anvil",

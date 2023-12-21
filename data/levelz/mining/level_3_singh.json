@@ -3,8 +3,12 @@
   "level": 3,
   "block": [
     "minecraft:deepslate",
+    "handcrafted:deepslate_pillar_trim",
+    "handcrafted:deepslate_corner_trim",
     "minecraft:infested_deepslate",
     "minecraft:calcite",
+    "handcrafted:calcite_pillar_trim",
+    "handcrafted:calcite_corner_trim",
     "create:cut_calcite",
     "create:cut_calcite_slab",
     "create:cut_calcite_stairs",
@@ -29,6 +33,8 @@
     "minecraft:diorite_wall",
     "minecraft:nether_quartz_ore",
     "minecraft:andesite_wall",
+    "handcrafted:andesite_pillar_trim",
+    "handcrafted:andesite_corner_trim",
     "minecraft:basalt_pillar",
     "minecraft:stone_stairs",
     "minecraft:furnace",
@@ -166,6 +172,8 @@
     "geode:smooth_end_stone",
     "geode:smooth_end_stone_stairs",
     "geode:smooth_end_stone_slab",
-    "geode:smooth_end_stone_wall"
+    "geode:smooth_end_stone_wall",
+    "handcrafted:stone_pillar_trim",
+    "handcrafted:stone_corner_trim"
   ]
 }

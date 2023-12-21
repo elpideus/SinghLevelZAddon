@@ -2,6 +2,7 @@
   "replace": true,
   "level": 78,
   "block": [
-    "bno:raw_uranium_block"
+    "bno:raw_uranium_block",
+    "immersiveores:vulpus_block"
   ]
 }

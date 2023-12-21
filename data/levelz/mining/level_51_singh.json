@@ -3,6 +3,7 @@
   "level": 51,
   "block": [
     "betterend:ender_block",
+    "immersiveores:enderium_block",
     "blockus:ender_block",
     "botania:ender_eye_block",
     "create:experience_block",

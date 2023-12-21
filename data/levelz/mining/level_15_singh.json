@@ -2,6 +2,8 @@
   "replace": true,
   "level": 15,
   "block": [
+    "handcrafted:blackstone_pillar_trim",
+    "handcrafted:blackstone_corner_trim",
     "minecraft:emerald_block",
     "minecraft:polished_blackstone_slab",
     "minecraft:polished_blackstone_wall",

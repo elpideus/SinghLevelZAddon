@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "level": 81,
+  "block": [
+    "jewelry:gem_vein",
+    "jewelry:deepslate_gem_vein"
+  ]
+}
