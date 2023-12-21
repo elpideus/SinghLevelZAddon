@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "level": 34,
+  "block": [
+    "betterend:dragon_bone_block",
+    "betterend:dragon_bone_stairs",
+    "betterend:dragon_bone_slab",
+    "betterend:mossy_dragon_bone",
+    "botania:dragonstone_block"
+  ]
+}

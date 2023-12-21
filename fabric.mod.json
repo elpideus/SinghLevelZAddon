@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "authors": ["elpideus"],
+  "environment": "*",
+  "depends": {
+    "fabric-api-base": "*"
+  },
+  "name": "Singh - LevelZ Addon",
+  "id": "singhlevelzaddon",
+  "version": "1.0.0",
+  "description": "",
+  "license": "GPL3",
+  "icon": "assets/icon.png"
+}

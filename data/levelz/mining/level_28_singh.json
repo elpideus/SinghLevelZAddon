@@ -1,0 +1,21 @@
+{
+  "replace": true,
+  "level": 28,
+  "block": [
+    "betternether:blue_weeping_obsidian",
+    "betternether:weeping_obsidian",
+    "betternether:obsidian_glass",
+    "betternether:obsidian_glass_pane",
+    "betternether:blue_obsidian_glass",
+    "betternether:blue_obsidian_glass_pane",
+    "advancednetherite:netherite_gold_block",
+    "blockus:lava_polished_blackstone_bricks",
+    "blockus:lava_polished_blackstone_brick_slab",
+    "blockus:lava_polished_blackstone_brick_stairs",
+    "blockus:lava_polished_blackstone_brick_wall",
+    "blockus:chiseled_lava_polished_blackstone",
+    "botania:piston_relay",
+    "create_new_age:solid_corium",
+    "create_new_age:corium"
+  ]
+}

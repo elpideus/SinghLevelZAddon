@@ -1,0 +1,16 @@
+{
+  "replace": true,
+  "level": 49,
+  "block": [
+    "betterend:flavolite_runed_eternal",
+    "betterend:thallasium_block",
+    "betterend:thallasium_tile",
+    "betterend:thallasium_stairs",
+    "betterend:thallasium_slab",
+    "betterend:thallasium_door",
+    "betterend:thallasium_trapdoor",
+    "betterend:thallasium_bars",
+    "betterend:thallasium_plate",
+    "betterend:thallasium_anvil"
+  ]
+}

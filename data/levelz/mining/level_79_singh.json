@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "level": 79,
+  "block": [
+    "bno:uranium_block",
+    "botania:tiny_planet_block"
+  ]
+}

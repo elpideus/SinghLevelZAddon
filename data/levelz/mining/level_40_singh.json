@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "level": 40,
+  "block": [
+    "aethersteel_fabric:aethersteel_block",
+    "aethersteel_fabric:aethersteel_button",
+    "aethersteel_fabric:aethersteel_coated_button",
+    "doodads:portable_nether"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "level": 31,
+  "block": [
+    "advancednetherite:netherite_diamond_block",
+    "betterend:amber_block",
+    "create_new_age:thorium_ore",
+    "deeperdarker:crystallized_amber",
+    "deeperdarker:sculk_gleam"
+  ]
+}

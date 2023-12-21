@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "level": 43,
+  "block": [
+    "betterend:aurora",
+    "create_new_age:fluxuated_magnetite",
+    "dungeonz:dungeon_portal",
+    "dungeonz:dungeon_gate"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "replace": true,
+  "level": 48,
+  "block": [
+    "amethyst_imbuement:hard_light_block",
+    "amethyst_imbuement:hard_light_white",
+    "amethyst_imbuement:hard_light_gray",
+    "amethyst_imbuement:hard_light_light_gray",
+    "amethyst_imbuement:hard_light_black",
+    "amethyst_imbuement:hard_light_brown",
+    "amethyst_imbuement:hard_light_red",
+    "amethyst_imbuement:hard_light_orange",
+    "amethyst_imbuement:hard_light_yellow",
+    "amethyst_imbuement:hard_light_lime",
+    "amethyst_imbuement:hard_light_green",
+    "amethyst_imbuement:hard_light_cyan",
+    "amethyst_imbuement:hard_light_blue",
+    "amethyst_imbuement:hard_light_light_blue",
+    "amethyst_imbuement:hard_light_purple",
+    "amethyst_imbuement:hard_light_magenta",
+    "amethyst_imbuement:hard_light_pink",
+    "amethyst_imbuement:hard_light",
+    "betterend:thallasium_ore"
+  ]
+}

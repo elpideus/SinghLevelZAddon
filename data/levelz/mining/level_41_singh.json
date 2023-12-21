@@ -1,0 +1,21 @@
+{
+  "replace": true,
+  "level": 41,
+  "block": [
+    "aethersteel_fabric:aethersteel_slab",
+    "aethersteel_fabric:aethersteel_stairs",
+    "aethersteel_fabric:aethersteel_trapdoor",
+    "aethersteel_fabric:aethersteel_coated_trapdoor",
+    "aethersteel_fabric:aethersteel_pressure_plate",
+    "aethersteel_fabric:aethersteel_coated_pressure_plate",
+    "aethersteel_fabric:aethersteel_coated_log",
+    "aethersteel_fabric:aethersteel_coated_wood",
+    "aethersteel_fabric:aethersteel_coated_stripped_log",
+    "aethersteel_fabric:aethersteel_coated_stripped_wood",
+    "aethersteel_fabric:aethersteel_coated_planks",
+    "aethersteel_fabric:aethersteel_coated_slab",
+    "aethersteel_fabric:aethersteel_coated_stairs",
+    "aethersteel_fabric:aethersteel_coated_fence",
+    "aethersteel_fabric:aethersteel_coated_fence_gate"
+  ]
+}

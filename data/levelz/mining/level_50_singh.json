@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "level": 50,
+  "block": [
+    "betterend:ender_ore",
+    "betterend:infusion_pedestal"
+  ]
+}

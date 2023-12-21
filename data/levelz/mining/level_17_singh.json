@@ -1,0 +1,27 @@
+{
+  "replace": true,
+  "level": 17,
+  "block": [
+    "minecraft:polished_blackstone_brick_slab",
+    "minecraft:polished_blackstone_brick_stairs",
+    "minecraft:polished_blackstone_brick_wall",
+    "awesomeflooring:emerald_floor",
+    "amethyst_imbuement:beryl_copper_block",
+    "betterend:virid_jadestone",
+    "betterend:virid_jadestone_polished",
+    "betterend:virid_jadestone_tiles",
+    "betterend:virid_jadestone_pillar",
+    "betterend:virid_jadestone_stairs",
+    "betterend:virid_jadestone_slab",
+    "betterend:virid_jadestone_wall",
+    "betterend:virid_jadestone_button",
+    "betterend:virid_jadestone_plate",
+    "betterend:virid_jadestone_pedestal",
+    "betterend:virid_jadestone_bricks",
+    "betterend:virid_jadestone_bricks_stairs",
+    "betterend:virid_jadestone_bricks_slab",
+    "betterend:virid_jadestone_bricks_wall",
+    "betterend:virid_jadestone_furnace",
+    "bno:lead_block"
+  ]
+}

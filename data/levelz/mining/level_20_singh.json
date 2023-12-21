@@ -1,0 +1,17 @@
+{
+  "replace": true,
+  "level": 20,
+  "block": [
+    "minecraft:ancient_debris",
+    "minecraft:amethyst_block",
+    "minecraft:budding_amethyst",
+    "minecraft:reinforced_deepslate",
+    "minecraft:medium_amethyst_bud",
+    "minecraft:lodestone",
+    "byg:subzero_crystal_block",
+    "byg:budding_subzero_crystal",
+    "byg:therium_crystal_block",
+    "byg:budding_therium_crystal",
+    "bygonenether:withered_debris"
+  ]
+}

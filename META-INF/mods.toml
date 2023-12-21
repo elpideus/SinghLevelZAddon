@@ -1,0 +1,13 @@
+
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "GPL3"
+
+[[mods]]
+modId = "singhlevelzaddon"
+version = "1.0.0"
+displayName = "Singh - LevelZ Addon"
+authors = "elpideus"
+description = '''
+
+'''

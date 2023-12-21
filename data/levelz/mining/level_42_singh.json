@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "level": 42,
+  "block": [
+    "aethersteel_fabric:aethersteel_door",
+    "aethersteel_fabric:aethersteel_coated_door",
+    "betterend:missing_tile"
+  ]
+}
