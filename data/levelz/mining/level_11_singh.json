@@ -396,6 +396,12 @@
     "createdeco:zinc_ladder",
     "createoreexcavation:drilling_machine",
     "createoreexcavation:extractor",
-    "createutilities:gearcube"
+    "createutilities:gearcube",
+    "galosphere:raw_silver_block",
+    "galosphere:silver_block",
+    "geode:budding_lapis",
+    "geode:budding_deepslate_redstone",
+    "geode:budding_sculk_redstone",
+    "geode:redstone_clutter_block"
   ]
 }

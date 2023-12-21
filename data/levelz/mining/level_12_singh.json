@@ -97,6 +97,27 @@
     "createdeco:cast_iron_mesh_fence",
     "createdeco:cast_iron_catwalk",
     "createdeco:cast_iron_catwalk_stairs",
-    "createdeco:cast_iron_block"
+    "createdeco:cast_iron_block",
+    "galosphere:silver_tiles",
+    "galosphere:silver_tiles_stairs",
+    "galosphere:silver_tiles_slab",
+    "galosphere:silver_panel",
+    "galosphere:silver_panel_stairs",
+    "galosphere:silver_panel_slab",
+    "galosphere:lumiere_block",
+    "galosphere:charged_lumiere_block",
+    "galosphere:lumiere_stairs",
+    "galosphere:lumiere_slab",
+    "galosphere:smooth_lumiere",
+    "galosphere:smooth_lumiere_stairs",
+    "galosphere:smooth_lumiere_slab",
+    "galosphere:lumiere_bricks",
+    "galosphere:lumiere_brick_slab",
+    "galosphere:lumiere_brick_stairs",
+    "galosphere:chiseled_lumiere",
+    "galosphere:lumiere_lamp",
+    "geode:budding_deepslate_lapis",
+    "geode:budding_sculk_lapis",
+    "geode:lapis_clutter_block"
   ]
 }

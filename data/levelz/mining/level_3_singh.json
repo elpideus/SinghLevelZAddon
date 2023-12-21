@@ -158,7 +158,14 @@
     "deeperdarker:sculk_grime_bricks",
     "deeperdarker:sculk_grime_brick_slab",
     "deeperdarker:sculk_grime_brick_stairs",
-    "deeperdarker:sculk_grime_brick_wall"
-
+    "deeperdarker:sculk_grime_brick_wall",
+    "geode:budding_nether_quartz",
+    "geode:budding_basalt_quartz",
+    "geode:budding_blackstone_quartz",
+    "geode:nether_quartz_crystal_block",
+    "geode:smooth_end_stone",
+    "geode:smooth_end_stone_stairs",
+    "geode:smooth_end_stone_slab",
+    "geode:smooth_end_stone_wall"
   ]
 }

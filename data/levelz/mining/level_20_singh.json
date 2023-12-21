@@ -12,6 +12,20 @@
     "byg:budding_subzero_crystal",
     "byg:therium_crystal_block",
     "byg:budding_therium_crystal",
-    "bygonenether:withered_debris"
+    "bygonenether:withered_debris",
+    "galosphere:amethyst_stairs",
+    "galosphere:amethyst_slab",
+    "galosphere:smooth_amethyst",
+    "galosphere:smooth_amethyst_stairs",
+    "galosphere:smooth_amethyst_slab",
+    "galosphere:amethyst_bricks",
+    "galosphere:amethyst_brick_stairs",
+    "galosphere:amethyst_brick_slab",
+    "galosphere:chiseled_amethyst",
+    "galosphere:amethyst_lamp",
+    "geode:budding_nether_ancient_debris",
+    "geode:budding_basalt_ancient_debris",
+    "geode:budding_blackstone_ancient_debris",
+    "geode:nether_ancient_debris_cluster_block"
   ]
 }

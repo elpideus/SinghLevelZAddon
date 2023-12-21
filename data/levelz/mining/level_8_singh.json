@@ -201,6 +201,17 @@
 		"ecologics:seashell_tiles",
 		"ecologics:seashell_tile_stairs",
 		"ecologics:seashell_tile_slab",
-		"ecologics:seashell_tile_wall"
+		"ecologics:seashell_tile_wall",
+		"galosphere:allurite_block",
+		"galosphere:allurite_stairs",
+		"galosphere:allurite_slab",
+		"galosphere:smooth_allurite",
+		"galosphere:smooth_allurite_stairs",
+		"galosphere:smooth_allurite_slab",
+		"galosphere:allurite_bricks",
+		"galosphere:allurite_brick_stairs",
+		"galosphere:allurite_brick_slab",
+		"galosphere:chiseled_allurite",
+		"galosphere:allurite_lamp"
 	]
 }

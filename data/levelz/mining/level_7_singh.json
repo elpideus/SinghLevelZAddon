@@ -117,6 +117,7 @@
     "botania:dark_quartz_stairs",
     "bygonenether:withered_coal_block",
     "bygonenether:withered_quartz_block",
-    "clutter:mossy_stone_brick_chimney"
+    "clutter:mossy_stone_brick_chimney",
+    "geode:prismarine_cluster_block"
   ]
 }

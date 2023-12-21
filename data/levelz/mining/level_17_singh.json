@@ -22,6 +22,9 @@
     "betterend:virid_jadestone_bricks_slab",
     "betterend:virid_jadestone_bricks_wall",
     "betterend:virid_jadestone_furnace",
-    "bno:lead_block"
+    "bno:lead_block",
+    "geode:budding_deepslate_diamond",
+    "geode:budding_sculk_diamond",
+    "geode:diamond_clutter_block"
   ]
 }

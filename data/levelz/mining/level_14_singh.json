@@ -16,6 +16,9 @@
     "blockus:herringbone_polished_blackstone_bricks",
     "blockus:polished_blackstone_circular_paving",
     "bno:raw_aluminum_block",
-    "expandeddelight:salt_ore"
+    "expandeddelight:salt_ore",
+    "geode:budding_deepslate_emerald",
+    "geode:budding_sculk_emerald",
+    "geode:emerald_clutter_block"
   ]
 }

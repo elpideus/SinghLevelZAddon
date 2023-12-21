@@ -212,6 +212,16 @@
     "create_new_age:reactor_heat_vent",
     "create_new_age:basic_solar_heating_plate",
     "create_new_age:advanced_solar_heating_plate",
-    "extractinator:slush"
+    "extractinator:slush",
+    "geode:budding_prismarine",
+    "geode:budding_nether_gold_nugget",
+    "geode:budding_basalt_gold_nugget",
+    "geode:budding_blackstone_gold_nugget",
+    "geode:nether_gold_nugget_cluster_block",
+    "geode:budding_nether_glowstone",
+    "geode:budding_basalt_glowstone",
+    "geode:budding_blackstone_glowstone",
+    "geode:nether_glowstone_cluster_block",
+    "geode:galcite"
   ]
 }

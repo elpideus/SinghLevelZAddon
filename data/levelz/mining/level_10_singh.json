@@ -73,6 +73,8 @@
 		"byg:blue_nether_brick_wall",
 		"byg:cryptic_redstone_ore",
 		"clutter:deepslate_silver_ore",
-		"clutter:silver_block"
+		"clutter:silver_block",
+		"galosphere:deepslate_silver_ore",
+		"geode:budding_redstone"
 	]
 }
