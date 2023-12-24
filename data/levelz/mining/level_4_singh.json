@@ -221,6 +221,24 @@
     "ecologics:snow_bricks",
     "ecologics:snow_brick_stairs",
     "ecologics:snow_brick_slab",
-    "ecologics:snow_brick_wall"
+    "ecologics:snow_brick_wall",
+    "paradise_lost:floestone_brick",
+    "paradise_lost:floestone_brick_stairs",
+    "paradise_lost:floestone_brick_slab",
+    "paradise_lost:floestone_brick_wall",
+    "paradise_lost:carved_stone",
+    "paradise_lost:carved_stone_stairs",
+    "paradise_lost:carved_stone_slab",
+    "paradise_lost:carved_stone_wall",
+    "paradise_lost:mossy_carved_stone",
+    "paradise_lost:mossy_carved_stone_stairs",
+    "paradise_lost:mossy_carved_stone_slab",
+    "paradise_lost:mossy_carved_stone_wall",
+    "paradise_lost:cracked_carved_stone",
+    "paradise_lost:glyphed_carved_stone",
+    "paradise_lost:carved_stone_panel",
+    "paradise_lost:carved_stone_panel_lit",
+    "paradise_lost:carved_stone_eye",
+    "paradise_lost:carved_stone_eye_lit"
   ]
 }

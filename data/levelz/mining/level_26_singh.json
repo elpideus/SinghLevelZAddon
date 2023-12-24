@@ -49,6 +49,21 @@
     "ecologics:ice_brick_stairs",
     "ecologics:ice_brick_slab",
     "ecologics:ice_brick_wall",
-    "extractinator:silt"
+    "extractinator:silt",
+    "peculia:fluorite",
+    "peculia:polished_fluorite",
+    "peculia:polished_fluorite_stairs",
+    "peculia:polished_fluorite_slab",
+    "peculia:polished_fluorite_wall",
+    "peculia:polished_fluorite_bricks",
+    "peculia:polished_fluorite_brick_stairs",
+    "peculia:polished_fluorite_brick_slab",
+    "peculia:polished_fluorite_brick_wall",
+    "peculia:polished_fluorite_pillar",
+    "peculia:chiseled_polished_fluorite",
+    "peculia:polished_fluorite_tiles",
+    "peculia:polished_fluorite_tile_stairs",
+    "peculia:polished_fluorite_tile_slab",
+    "peculia:polished_fluorite_tile_wall"
   ]
 }
