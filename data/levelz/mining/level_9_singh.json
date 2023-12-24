@@ -210,6 +210,8 @@
     "bno:raw_tin_block",
     "clutter:silver_ore",
     "galosphere:silver_ore",
+    "mythicmetals:silver_ore",
+    "mythicmetals:raw_tin_block",
     "clutter:raw_silver_block",
     "createdeco:copper_sheet_metal",
     "createdeco:copper_sheet_stairs",

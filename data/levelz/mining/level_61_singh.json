@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "level": 61,
+  "block": [
+    "mythicmetals:runite_ore",
+    "mythicmetals:deepslate_runite_ore"
+  ]
+}

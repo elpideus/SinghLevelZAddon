@@ -7,6 +7,7 @@
     "aethersteel_fabric:aethersteel_coated_button",
     "doodads:portable_nether",
     "alloy_forgery:adamantite_block_forge_controller",
-    "mythicmetals:adamantite_block"
+    "mythicmetals:adamantite_block",
+    "mythicmetals_decorations:adamantite_chest"
   ]
 }

@@ -3,7 +3,9 @@
   "level": 45,
   "block": [
     "mythicmetals:carmot_block",
+    "mythicmetals_decorations:carmot_chest",
     "mythicmetals:manganese_ore",
-    "mythicmetals:quadrillum_block"
+    "mythicmetals:quadrillum_block",
+    "mythicmetals_decorations:quadrillum_chest"
   ]
 }

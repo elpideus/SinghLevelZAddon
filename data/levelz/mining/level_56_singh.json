@@ -3,6 +3,7 @@
   "level": 56,
   "block": [
     "mythicmetals:mythril_block",
+    "mythicmetals_decorations:mythril_chest",
     "mythicmetals:raw_orichalcum_block",
     "mythicmetals:osmium_ore",
     "bno:nether_osmium_ore"

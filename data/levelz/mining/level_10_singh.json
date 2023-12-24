@@ -5,6 +5,7 @@
 		"minecraft:redstone_ore",
 		"deeperdarker:sculk_stone_redstone_ore",
 		"deeperdarker:gloomslate_redstone_ore",
+		"mythicmetals:raw_silver_block",
 		"minecraft:raw_iron_block",
 		"minecraft:deepslate_gold_ore",
 		"minecraft:cut_copper",
@@ -75,6 +76,10 @@
 		"clutter:silver_block",
 		"galosphere:deepslate_silver_ore",
 		"geode:budding_redstone",
-		"mythicmetals:bronze_block"
+		"mythicmetals:bronze_block",
+		"mythicmobs:bronze_block",
+		"mythicmobs:bronze_block_cut",
+		"mythicmetals_decorations:bronze_chest",
+		"mythicmetals:tin_block"
 	]
 }

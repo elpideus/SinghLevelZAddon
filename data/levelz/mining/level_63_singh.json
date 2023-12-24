@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "level": 63,
+  "block": [
+    "mythicmetals:runite_block",
+    "mythicmetals_decorations:runite_chest"
+  ]
+}

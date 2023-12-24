@@ -3,6 +3,7 @@
   "level": 59,
   "block": [
     "bno:osmium_block",
-    "mythicmetals:osmium_block"
+    "mythicmetals:osmium_block",
+    "mythicmetals_decorations:osmium_chest"
   ]
 }

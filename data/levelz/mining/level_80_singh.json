@@ -4,6 +4,7 @@
   "block": [
     "geode:budding_celestite",
     "geode:celestite_block",
-    "mythicmetals:kyber_block"
+    "mythicmetals:kyber_block",
+    "mythicmetals_decorations:kyber_chest"
   ]
 }

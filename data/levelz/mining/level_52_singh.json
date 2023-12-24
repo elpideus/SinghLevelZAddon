@@ -4,6 +4,7 @@
   "block": [
     "immersiveores:vibranium_ore",
     "immersiveores:raw_vibranium_block",
-    "mythicmetals:durasteel_block"
+    "mythicmetals:durasteel_block",
+    "mythicmetals_decorations:durasteel_chest"
   ]
 }

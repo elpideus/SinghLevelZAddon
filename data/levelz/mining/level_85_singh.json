@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "level": 85,
+  "block": [
+    "mythicmetals:starrite_ore",
+    "mythicmetals:calcite_starrite_ore",
+    "mythicmetals:end_stone_starrite_ore",
+    "mythicmetals:starrite_ore_block",
+    "mythicmetals:stormyx_ore",
+    "mythicmetals:blackstone_stormyx_ore"
+  ]
+}

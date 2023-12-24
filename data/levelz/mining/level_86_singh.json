@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "level": 86,
+  "block": [
+    "mythicmetals:star_platinum_block",
+    "mythicmetals_decorations:star_platinum_chest",
+    "mythicmetals:raw_stormyx_block"
+  ]
+}

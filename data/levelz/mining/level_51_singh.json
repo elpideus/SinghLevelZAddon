@@ -14,6 +14,7 @@
     "create:experience_block_trap",
     "create:experience_block_door",
     "create:experience_block_fence_gate",
-    "mythicmetals:midas_gold_block"
+    "mythicmetals:midas_gold_block",
+    "mythicmetals_decorations:midas_gold_chest"
   ]
 }

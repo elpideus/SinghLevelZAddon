@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "level": 87,
+  "block": [
+    "mythicmetals:stormyx_block",
+    "mythicmetals_decorations:stormyx_chest"
+  ]
+}

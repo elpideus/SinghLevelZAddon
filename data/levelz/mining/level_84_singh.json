@@ -2,6 +2,7 @@
   "replace": true,
   "level": 83,
   "block": [
-    "mythicmetals:prometheum_block"
+    "mythicmetals:prometheum_block",
+    "mythicmetals_decorations:prometheum_chest"
   ]
 }
