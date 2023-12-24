@@ -120,6 +120,8 @@
     "galosphere:lumiere_lamp",
     "geode:budding_deepslate_lapis",
     "geode:budding_sculk_lapis",
-    "geode:lapis_clutter_block"
+    "geode:lapis_clutter_block",
+    "nethersdelight:rich_soul_soil",
+    "nethersdelight:soul_compost"
   ]
 }

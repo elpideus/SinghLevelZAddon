@@ -3,6 +3,7 @@
   "level": 16,
   "block": [
     "minecraft:diamond_ore",
+    "paradise_lost:olvite_ore",
     "deeperdarker:sculk_stone_diamond_ore",
     "deeperdarker:gloomslate_diamond_ore",
     "minecraft:deepslate_diamond_ore",

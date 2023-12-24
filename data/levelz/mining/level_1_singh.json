@@ -4,6 +4,8 @@
   "block": [
     "minecraft:grass_block",
     "minecraft:dirt",
+    "paradise_lost:dirt",
+    "paradise_lost:highlands_grass",
     "minecraft:podzol",
     "minecraft:mud",
     "minecraft:crimson_nylium",

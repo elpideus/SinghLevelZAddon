@@ -70,6 +70,18 @@
     "frostiful:cut_blue_ice_wall",
     "frostiful:cut_blue_ice_stairs",
     "frostiful:cut_blue_ice_slab",
-    "frostiful:cut_blue_ice"
+    "frostiful:cut_blue_ice",
+    "notreepunching:andesite_cobblestone",
+    "notreepunching:andesite_cobblestone_stairs",
+    "notreepunching:andesite_cobblestone_slab",
+    "notreepunching:andesite_cobblestone_wall",
+    "notreepunching:diorite_cobblestone",
+    "notreepunching:diorite_cobblestone_stairs",
+    "notreepunching:diorite_cobblestone_slab",
+    "notreepunching:diorite_cobblestone_wall",
+    "notreepunching:granite_cobblestone",
+    "notreepunching:granite_cobblestone_stairs",
+    "notreepunching:granite_cobblestone_slab",
+    "notreepunching:granite_cobblestone_wall"
   ]
 }

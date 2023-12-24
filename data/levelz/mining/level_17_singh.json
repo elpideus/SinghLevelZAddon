@@ -25,6 +25,7 @@
     "bno:lead_block",
     "geode:budding_deepslate_diamond",
     "geode:budding_sculk_diamond",
-    "geode:diamond_clutter_block"
+    "geode:diamond_clutter_block",
+    "paradise_lost:olvite_block"
   ]
 }

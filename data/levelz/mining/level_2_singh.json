@@ -3,9 +3,12 @@
   "level": 2,
   "block": [
     "minecraft:coarse_dirt",
+    "paradise_lost:coarse_dirt",
     "minecraft:rooted_dirt",
     "minecraft:dirt_path",
     "minecraft:stone",
+    "paradise_lost:floestone",
+    "paradise_lost:cobbled_floestone",
     "minecraft:infested_stone",
     "minecraft:end_stone",
     "peculia:eroded_end_stone",
