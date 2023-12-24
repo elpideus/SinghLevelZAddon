@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "level": 58,
+  "block": [
+    "bno:raw_osmium_block",
+    "mythicmetals:raw_osmium_block"
+  ]
+}
+

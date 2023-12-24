@@ -4,6 +4,7 @@
   "block": [
     "lithereal:litherite_ore",
     "lithereal:deepslate_litherite_ore",
-    "mythicmetals:celestium_block"
+    "mythicmetals:celestium_block",
+    "mythicmetals:platinum_block"
   ]
 }

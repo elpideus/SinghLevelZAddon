@@ -13,6 +13,7 @@
     "create:experience_block_wall",
     "create:experience_block_trap",
     "create:experience_block_door",
-    "create:experience_block_fence_gate"
+    "create:experience_block_fence_gate",
+    "mythicmetals:midas_gold_block"
   ]
 }

@@ -3,6 +3,7 @@
   "level": 52,
   "block": [
     "immersiveores:vibranium_ore",
-    "immersiveores:raw_vibranium_block"
+    "immersiveores:raw_vibranium_block",
+    "mythicmetals:durasteel_block"
   ]
 }

@@ -5,6 +5,8 @@
     "immersiveores:enderium_ore",
     "betterend:ender_ore",
     "betterend:infusion_pedestal",
-    "immersiveores:raw_enderium_block"
+    "immersiveores:raw_enderium_block",
+    "mythicmetals:morkite_block",
+    "mythicmetals:raw_midas_gold_block"
   ]
 }
