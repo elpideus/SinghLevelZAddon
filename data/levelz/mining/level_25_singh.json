@@ -82,6 +82,10 @@
     "notreepunching:granite_cobblestone",
     "notreepunching:granite_cobblestone_stairs",
     "notreepunching:granite_cobblestone_slab",
-    "notreepunching:granite_cobblestone_wall"
+    "notreepunching:granite_cobblestone_wall",
+    "philipsruins:obsidian_brick",
+    "philipsruins:obsidian_brick_stairs",
+    "philipsruins:obsidian_brick_slab",
+    "philipsruins:obsidian_brick_wall"
   ]
 }

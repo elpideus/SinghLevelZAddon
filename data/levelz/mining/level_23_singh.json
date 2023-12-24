@@ -4,6 +4,7 @@
   "block": [
     "minecraft:netherite_block",
     "minecraft:sea_lantern",
+    "philipsruins:frozen_sea_lantern",
     "minecraft:blue_ice",
     "awesomeflooring:diamond_floor",
     "awesomeflooring:netherite_floor",
