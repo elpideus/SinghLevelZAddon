@@ -2,7 +2,7 @@
   "replace": true,
   "level": 77,
   "block": [
-    "immersiveores:vulpus_ore",
-    "immersiveores:raw_vulpus_block"
+    "immersiveores:raw_vulpus_block",
+    "immersiveores:vulpus_ore"
   ]
 }

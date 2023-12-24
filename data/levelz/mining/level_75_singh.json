@@ -2,11 +2,11 @@
   "replace": true,
   "level": 75,
   "block": [
-    "lithereal:litherite_ore",
     "lithereal:deepslate_litherite_ore",
+    "lithereal:litherite_ore",
     "mythicmetals:celestium_block",
-    "mythicmetals_decorations:celestium_chest",
     "mythicmetals:platinum_block",
+    "mythicmetals_decorations:celestium_chest",
     "mythicmetals_decorations:platinum_chest"
   ]
 }

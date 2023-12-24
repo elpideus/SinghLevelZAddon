@@ -4,11 +4,11 @@
   "block": [
     "betterend:aurora",
     "create_new_age:fluxuated_magnetite",
-    "dungeonz:dungeon_portal",
     "dungeonz:dungeon_gate",
-    "mythicmetals:raw_aquarium_block",
+    "dungeonz:dungeon_portal",
     "mythicmetals:banglum_ore",
     "mythicmetals:nether_banglum_ore",
+    "mythicmetals:raw_aquarium_block",
     "soulsweapons:verglas_block"
   ]
 }

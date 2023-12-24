@@ -2,20 +2,20 @@
   "replace": true,
   "level": 69,
   "block": [
+    "blockus:love_block",
+    "blockus:rainbow_asphalt",
+    "blockus:rainbow_beveled_glass",
+    "blockus:rainbow_beveled_glass_pane",
     "blockus:rainbow_block",
-    "blockus:rainbow_bricks",
     "blockus:rainbow_brick_slab",
     "blockus:rainbow_brick_stairs",
     "blockus:rainbow_brick_wall",
-    "blockus:rainbow_lamp",
-    "blockus:rainbow_lamp_lit",
-    "blockus:rainbow_asphalt",
+    "blockus:rainbow_bricks",
+    "blockus:rainbow_colored_tiles",
     "blockus:rainbow_glass",
     "blockus:rainbow_glass_pane",
-    "blockus:rainbow_beveled_glass",
-    "blockus:rainbow_beveled_glass_pane",
-    "blockus:rainbow_colored_tiles",
-    "blockus:love_block",
+    "blockus:rainbow_lamp",
+    "blockus:rainbow_lamp_lit",
     "botania:fabulous_pool"
   ]
 }

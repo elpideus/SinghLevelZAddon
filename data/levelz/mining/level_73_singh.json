@@ -2,8 +2,8 @@
   "replace": true,
   "level": 73,
   "block": [
-    "mythicmetals:raw_palladium_block",
     "mythicmetals:platinum_ore",
+    "mythicmetals:raw_palladium_block",
     "soulsweapons:moonstone_ore",
     "soulsweapons:moonstone_ore_deepslate"
   ]

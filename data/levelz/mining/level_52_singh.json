@@ -2,14 +2,14 @@
   "replace": true,
   "level": 52,
   "block": [
-    "immersiveores:vibranium_ore",
     "immersiveores:raw_vibranium_block",
+    "immersiveores:vibranium_ore",
     "mythicmetals:durasteel_block",
     "mythicmetals_decorations:durasteel_chest",
-    "peculia:poprock_bricks",
-    "peculia:poprock_brick_stairs",
+    "peculia:chiseled_poprock_bricks",
     "peculia:poprock_brick_slab",
+    "peculia:poprock_brick_stairs",
     "peculia:poprock_brick_wall",
-    "peculia:chiseled_poprock_bricks"
+    "peculia:poprock_bricks"
   ]
 }

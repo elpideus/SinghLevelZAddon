@@ -2,23 +2,23 @@
   "replace": true,
   "level": 14,
   "block": [
-    "minecraft:deepslate_emerald_ore",
-    "minecraft:chiseled_quartz_block",
-    "minecraft:polished_blackstone",
-    "clutter:polished_blackstone_brick_chimney",
     "alloy_forgery:prismarine_bricks_forge_controller",
     "betterend:smaragdant_crystal",
-    "blockus:polished_blackstone_tiles",
+    "blockus:herringbone_polished_blackstone_bricks",
+    "blockus:polished_blackstone_circular_paving",
+    "blockus:polished_blackstone_pillar",
     "blockus:polished_blackstone_tile_slab",
     "blockus:polished_blackstone_tile_stairs",
     "blockus:polished_blackstone_tile_wall",
-    "blockus:polished_blackstone_pillar",
-    "blockus:herringbone_polished_blackstone_bricks",
-    "blockus:polished_blackstone_circular_paving",
+    "blockus:polished_blackstone_tiles",
     "bno:raw_aluminum_block",
+    "clutter:polished_blackstone_brick_chimney",
     "expandeddelight:salt_ore",
     "geode:budding_deepslate_emerald",
     "geode:budding_sculk_emerald",
-    "geode:emerald_clutter_block"
+    "geode:emerald_clutter_block",
+    "minecraft:chiseled_quartz_block",
+    "minecraft:deepslate_emerald_ore",
+    "minecraft:polished_blackstone"
   ]
 }

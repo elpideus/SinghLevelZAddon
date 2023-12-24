@@ -2,8 +2,8 @@
   "replace": true,
   "level": 36,
   "block": [
-    "betternether:nether_ruby_ore",
     "betternether:cincinnasite_fire_bowl",
-    "betternether:cincinnasite_fire_bowl_soul"
+    "betternether:cincinnasite_fire_bowl_soul",
+    "betternether:nether_ruby_ore"
   ]
 }

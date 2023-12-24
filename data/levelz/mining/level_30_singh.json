@@ -2,9 +2,9 @@
   "replace": true,
   "level": 30,
   "block": [
-    "betternether:cincinnasite_ore",
     "advancednetherite:netherite_emerald_block",
     "betterend:amber_ore",
+    "betternether:cincinnasite_ore",
     "botania:mana_void"
   ]
 }

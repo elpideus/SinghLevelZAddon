@@ -2,13 +2,13 @@
   "replace": true,
   "level": 100,
   "block": [
-    "minecraft:end_portal_frame",
-    "create:creative_motor",
-    "create:creative_fluid_tank",
     "create:creative_crate",
+    "create:creative_fluid_tank",
+    "create:creative_motor",
     "createaddition:creative_energy",
-    "mythicmetals:unobtainium_ore",
+    "minecraft:end_portal_frame",
     "mythicmetals:deepslate_unobtainium_ore",
-    "mythicmetals:unobtainium_block"
+    "mythicmetals:unobtainium_block",
+    "mythicmetals:unobtainium_ore"
   ]
 }

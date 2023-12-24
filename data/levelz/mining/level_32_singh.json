@@ -2,10 +2,10 @@
   "replace": true,
   "level": 32,
   "block": [
+    "betterend:flavolite_runed",
+    "betternether:cincinnasite_anvil",
     "betternether:cincinnasite_block",
     "betternether:cincinnasite_forged",
-    "betternether:nether_brewing_stand",
-    "betternether:cincinnasite_anvil",
-    "betterend:flavolite_runed"
+    "betternether:nether_brewing_stand"
   ]
 }

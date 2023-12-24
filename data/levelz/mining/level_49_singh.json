@@ -3,19 +3,19 @@
   "level": 49,
   "block": [
     "betterend:flavolite_runed_eternal",
-    "betterend:thallasium_block",
-    "betterend:thallasium_tile",
-    "betterend:thallasium_stairs",
-    "betterend:thallasium_slab",
-    "betterend:thallasium_door",
-    "betterend:thallasium_trapdoor",
-    "betterend:thallasium_bars",
-    "betterend:thallasium_plate",
     "betterend:thallasium_anvil",
-    "mythicmetals:metallurgium_block",
-    "mythicmetals_decorations:metallurgium_chest",
-    "mythicmetals:morkite_ore",
+    "betterend:thallasium_bars",
+    "betterend:thallasium_block",
+    "betterend:thallasium_door",
+    "betterend:thallasium_plate",
+    "betterend:thallasium_slab",
+    "betterend:thallasium_stairs",
+    "betterend:thallasium_tile",
+    "betterend:thallasium_trapdoor",
     "mythicmetals:deepslate_morkite_ore",
-    "mythicmetals:midas_gold_ore"
+    "mythicmetals:metallurgium_block",
+    "mythicmetals:midas_gold_ore",
+    "mythicmetals:morkite_ore",
+    "mythicmetals_decorations:metallurgium_chest"
   ]
 }

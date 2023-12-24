@@ -2,18 +2,18 @@
   "replace": true,
   "level": 56,
   "block": [
-    "mythicmetals:mythril_block",
-    "mythicmetals_decorations:mythril_chest",
-    "mythicmetals:raw_orichalcum_block",
-    "mythicmetals:osmium_ore",
     "bno:nether_osmium_ore",
-    "peculia:mythril_block",
+    "mythicmetals:mythril_block",
+    "mythicmetals:osmium_ore",
+    "mythicmetals:raw_orichalcum_block",
+    "mythicmetals_decorations:mythril_chest",
+    "peculia:chiseled_mythril",
     "peculia:compact_mythril_crystal",
-    "peculia:mythril_crystal",
-    "peculia:mythril_bricks",
+    "peculia:mythril_block",
     "peculia:mythril_brick_slab",
     "peculia:mythril_brick_stairs",
     "peculia:mythril_brick_wall",
-    "peculia:chiseled_mythril"
+    "peculia:mythril_bricks",
+    "peculia:mythril_crystal"
   ]
 }

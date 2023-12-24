@@ -2,10 +2,10 @@
   "replace": true,
   "level": 55,
   "block": [
-    "mythicmetals:raw_mythril_block",
+    "mythicmetals:deepslate_orichalcum_ore",
     "mythicmetals:orichalcum_ore",
-    "mythicmetals:tuff_orichalcum_ore",
+    "mythicmetals:raw_mythril_block",
     "mythicmetals:smooth_basalt_orichalcum_ore",
-    "mythicmetals:deepslate_orichalcum_ore"
+    "mythicmetals:tuff_orichalcum_ore"
   ]
 }

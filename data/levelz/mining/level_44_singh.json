@@ -4,10 +4,10 @@
   "block": [
     "betterend:aurora_crystal",
     "mythicmetals:aquarium_block",
-    "mythicmetals_decorations:aquarium_chest",
-    "mythicmetals:raw_banglum_block",
     "mythicmetals:carmot_ore",
     "mythicmetals:deepslate_carmot_ore",
-    "mythicmetals:quadrillum_ore"
+    "mythicmetals:quadrillum_ore",
+    "mythicmetals:raw_banglum_block",
+    "mythicmetals_decorations:aquarium_chest"
   ]
 }

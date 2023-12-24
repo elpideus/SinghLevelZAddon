@@ -2,8 +2,8 @@
   "replace": true,
   "level": 42,
   "block": [
-    "aethersteel_fabric:aethersteel_door",
     "aethersteel_fabric:aethersteel_coated_door",
+    "aethersteel_fabric:aethersteel_door",
     "betterend:missing_tile",
     "mythicmetals:aquarium_ore",
     "soulsweapons:verglas_ore",

@@ -3,8 +3,8 @@
   "level": 38,
   "block": [
     "betternether:nether_ruby_block",
-    "betternether:nether_ruby_stairs",
     "betternether:nether_ruby_slab",
+    "betternether:nether_ruby_stairs",
     "mythicmetals:adamantite_ore"
   ]
 }
