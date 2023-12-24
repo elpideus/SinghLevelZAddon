@@ -239,6 +239,11 @@
     "paradise_lost:carved_stone_panel",
     "paradise_lost:carved_stone_panel_lit",
     "paradise_lost:carved_stone_eye",
-    "paradise_lost:carved_stone_eye_lit"
+    "paradise_lost:carved_stone_eye_lit",
+    "peculia:snow_bricks",
+    "peculia:snow_brick_pillar",
+    "peculia:snow_brick_stairs",
+    "peculia:snow_brick_slab",
+    "peculia:snow_brick_wall"
   ]
 }
