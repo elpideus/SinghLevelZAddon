@@ -3,6 +3,7 @@
   "level": 45,
   "block": [
     "mythicmetals:banglum_block",
-    "mythicmetals:raw_carmot_block"
+    "mythicmetals:raw_carmot_block",
+    "mythicmetals:raw_quadrillum_block"
   ]
 }

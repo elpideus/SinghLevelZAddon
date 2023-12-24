@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "level": 82,
+  "block": [
+    "mythicmetals:prometheum_ore",
+    "mythicmetals:deepslate_prometheum_ore"
+  ]
+}
