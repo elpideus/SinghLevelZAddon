@@ -112,6 +112,8 @@
     "createdeco:gold_hull",
     "createdeco:gold_support",
     "createdeco:gold_ladder",
-    "geode:budding_emerald"
+    "geode:budding_emerald",
+    "soulsweapons:infused_blackstone",
+    "soulsweapons:cracked_infused_blackstone"
   ]
 }

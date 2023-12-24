@@ -3,6 +3,8 @@
   "level": 73,
   "block": [
     "mythicmetals:raw_palladium_block",
-    "mythicmetals:platinum_ore"
+    "mythicmetals:platinum_ore",
+    "soulsweapons:moonstone_ore",
+    "soulsweapons:moonstone_ore_deepslate"
   ]
 }

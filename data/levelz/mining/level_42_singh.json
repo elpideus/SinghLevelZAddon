@@ -5,6 +5,8 @@
     "aethersteel_fabric:aethersteel_door",
     "aethersteel_fabric:aethersteel_coated_door",
     "betterend:missing_tile",
-    "mythicmetals:aquarium_ore"
+    "mythicmetals:aquarium_ore",
+    "soulsweapons:verglas_ore",
+    "soulsweapons:verglas_ore_deepslate"
   ]
 }

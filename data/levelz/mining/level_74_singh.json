@@ -4,6 +4,7 @@
   "block": [
     "mythicmetals:palladium_block",
     "mythicmetals:raw_platinum_block",
-    "mythicmetals_decorations:palladium_chest"
+    "mythicmetals_decorations:palladium_chest",
+    "soulsweapons:moonstone_block"
   ]
 }
