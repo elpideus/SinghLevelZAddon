@@ -7,6 +7,7 @@
     "minecraft:rooted_dirt",
     "minecraft:dirt_path",
     "minecraft:stone",
+    "regions_unexplored:mossy_stone",
     "paradise_lost:floestone",
     "paradise_lost:floestone_stairs",
     "paradise_lost:floestone_slab",
@@ -340,5 +341,9 @@
     "peculia:polished_cryptstone_tile_stairs",
     "peculia:polished_cryptstone_tile_slab",
     "peculia:polished_cryptstone_tile_wall",
+    "promenade:blunite",
+    "promenade:blunite_stairs",
+    "promenade:blunite_slab",
+    "promenade:blunite_wall"
   ]
 }

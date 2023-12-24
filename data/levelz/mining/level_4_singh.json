@@ -3,6 +3,13 @@
   "level": 4,
   "block": [
     "minecraft:coal_ore",
+    "promenade:carbonite",
+    "promenade:carbonite_stairs",
+    "promenade:carbonite_slab",
+    "promenade:carbonite_wall",
+    "promenade:polished_blunite",
+    "promenade:polished_blunite_stairs",
+    "promenade:polished_blunite_slab",
     "minecraft:mossy_cobblestone",
     "minecraft:mossy_cobblestone_stairs",
     "minecraft:mossy_cobblestone_slab",
@@ -244,6 +251,13 @@
     "peculia:snow_brick_pillar",
     "peculia:snow_brick_stairs",
     "peculia:snow_brick_slab",
-    "peculia:snow_brick_wall"
+    "peculia:snow_brick_wall",
+    "regions_unexplored:polished_chalk",
+    "regions_unexplored:polished_chalk_stairs",
+    "regions_unexplored:polished_chalk_slab",
+    "regions_unexplored:chalk_bricks",
+    "regions_unexplored:chalk_brick_stairs",
+    "regions_unexplored:chalk_brick_slab",
+    "regions_unexplored:chalk_pillar"
   ]
 }

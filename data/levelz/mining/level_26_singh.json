@@ -3,6 +3,8 @@
   "level": 26,
   "block": [
     "minecraft:crying_obsidian",
+    "regions_unexplored:cobalt_obsidian",
+    "regions_unexplored:crimson_obsidian",
     "minecraft:respawn_anchor",
     "betternether:blue_crying_obsidian",
     "betternether:quartz_glass_framed_pane",
