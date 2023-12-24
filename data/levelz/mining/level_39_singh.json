@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "level": 38,
+  "block": [
+    "mythicmetals:deepslate_adamantite_ore",
+    "mythicmetals:raw_adamantite_block"
+  ]
+}

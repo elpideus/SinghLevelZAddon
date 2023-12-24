@@ -3,6 +3,7 @@
   "level": 75,
   "block": [
     "lithereal:litherite_ore",
-    "lithereal:deepslate_litherite_ore"
+    "lithereal:deepslate_litherite_ore",
+    "mythicmetals:celestium_block"
   ]
 }

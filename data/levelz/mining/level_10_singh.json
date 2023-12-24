@@ -75,6 +75,7 @@
 		"clutter:deepslate_silver_ore",
 		"clutter:silver_block",
 		"galosphere:deepslate_silver_ore",
-		"geode:budding_redstone"
+		"geode:budding_redstone",
+		"mythicmetals:bronze_block"
 	]
 }

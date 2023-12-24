@@ -4,6 +4,7 @@
   "block": [
     "betternether:nether_ruby_block",
     "betternether:nether_ruby_stairs",
-    "betternether:nether_ruby_slab"
+    "betternether:nether_ruby_slab",
+    "mythicmetals:adamantite_ore"
   ]
 }

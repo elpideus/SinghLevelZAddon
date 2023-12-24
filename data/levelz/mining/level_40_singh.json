@@ -5,6 +5,8 @@
     "aethersteel_fabric:aethersteel_block",
     "aethersteel_fabric:aethersteel_button",
     "aethersteel_fabric:aethersteel_coated_button",
-    "doodads:portable_nether"
+    "doodads:portable_nether",
+    "alloy_forgery:adamantite_block_forge_controller",
+    "mythicmetals:adamantite_block"
   ]
 }

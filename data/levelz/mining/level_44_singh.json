@@ -2,6 +2,10 @@
   "replace": true,
   "level": 44,
   "block": [
-    "betterend:aurora_crystal"
+    "betterend:aurora_crystal",
+    "mythicmetals:aquarium_block",
+    "mythicmetals:raw_banglum_block",
+    "mythicmetals:carmot_ore",
+    "mythicmetals:deepslate_carmot_ore"
   ]
 }

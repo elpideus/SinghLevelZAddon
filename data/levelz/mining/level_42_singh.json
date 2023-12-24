@@ -4,6 +4,7 @@
   "block": [
     "aethersteel_fabric:aethersteel_door",
     "aethersteel_fabric:aethersteel_coated_door",
-    "betterend:missing_tile"
+    "betterend:missing_tile",
+    "mythicmetals:aquarium_ore"
   ]
 }
